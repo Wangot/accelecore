@@ -1,0 +1,32 @@
+{
+  "name": "accelecore",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wangot/accelecore.git"
+  },
+  "keywords": [
+    "core"
+  ],
+  "author": "Raymande Leano <raymandeleano@gmail.com> (https://github.com/Wangot)",
+  "contributors": [
+    {
+      "name": "Raymande Leano",
+      "email": "raymandeleano@gmail.com"
+    },
+    {
+      "name": "Mardan Tesoro",
+      "email": "mardan.tesoro@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wangot/accelecore/issues"
+  },
+  "homepage": "https://github.com/Wangot/accelecore#readme"
+}
